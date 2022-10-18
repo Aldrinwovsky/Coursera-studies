@@ -1,3 +1,3 @@
-#This code prints Wello World
+#This code prints Hello World
 
-print ("hello world")
+print ("Hello World")
